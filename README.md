@@ -52,19 +52,8 @@ java -cp .:postgresql-42.2.20.jar StudentCRUDTerminal
 
 ```
 
-## Struktur Folder
-![student-crud-folder](https://github.com/gigarazkiarianda/student-crud/assets/75737741/1da15c28-d396-4bb4-b1eb-e64e954cb47e)
-
-
-
 ## Highlight
 > None
-
-## System Flow
-![student-crud-flow](https://github.com/gigarazkiarianda/student-crud/assets/75737741/d498140a-dcae-4470-b662-ba200f5cfb53)
-
-
-
 
 ## Issue
 
